@@ -1,4 +1,5 @@
 """Enums, vowels, and consonants for gruut-ipa"""
+
 import typing
 import unicodedata
 from dataclasses import dataclass
@@ -19,7 +20,8 @@ LANG_ALIASES = {
     "fr": "fr-fr",
     "it": "it-it",
     "nl": "nl",
-    "pt-br": "pt",
+    "pt-br": "pt-br",
+    "pt": "pt",
     "ru": "ru-ru",
     "sv": "sv-se",
     "sw": "sw",
